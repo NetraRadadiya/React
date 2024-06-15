@@ -1,0 +1,27 @@
+.header{
+  display: flex;
+  justify-content: space-around;
+  color: yellow;
+  background-color: black;
+  align-items: center;
+}
+.home{
+  display: flex;
+  list-style:none;
+}
+.img{
+  display: flex;
+  justify-content: space-between;
+}
+.footer{
+  background-color: black;
+  height: 300px;
+  margin-top: 5%;
+  color: yellow;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.con{
+  text-align: center;
+}
