@@ -1,0 +1,9 @@
+.btn{
+  border-radius: 50px;
+  background-color: rgb(48, 48, 225);
+}
+
+.deo{
+  display: flex;
+  padding: 40px;
+}
